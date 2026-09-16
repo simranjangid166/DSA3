@@ -1,4 +1,4 @@
-# String Matching Application using the Z Algorithm
+# Student Document Matching Analysis
 
 ## Objectives
 

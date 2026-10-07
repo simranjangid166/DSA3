@@ -1,4 +1,3 @@
-[Uploading README.md…]()
 # STUDENT DOCUMENT SIMILARITY ANALYSIS
 
 ## Description
@@ -161,8 +160,6 @@ Make sure the `corpus` folder is present inside the `ProjectCode` folder.
 ## Sample Output
 
 The following image shows the sample output of the String Matching Application executed in the terminal.
-
-![String Matching Application Output](images/img1.png)
 
 ## Applications
 
